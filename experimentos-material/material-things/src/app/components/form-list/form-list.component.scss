@@ -1,0 +1,23 @@
+.component-container {
+    padding: 30px 15px;
+}
+
+mat-grid-tile {
+    background: lightblue;
+}
+
+.filtro-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin: 0 -15px;
+}
+
+.filtro-container .item {
+    flex: 1;
+    padding: 0 15px;
+}
+
+table {
+    width: 100%;
+}
